@@ -13,7 +13,7 @@ audiences: Renters, Hosts, and Air BnB Decision Makers. Predicting Prices will h
 Renters know what fair price will be for their needs, will help Hosts know competitive
 prices to charge, and help Air BnB know how to best connect Renters with the best host.
 
-The Analysis includes the use of 10 fold cross validation on the following predictive models and a analysis of the effect different tuning parameters has on each model's performance: 
+The Analysis includes the use of 10 fold cross validation on the following predictive models and a analysis of the affect different tuning parameters has on each model's performance: 
 - KNN
 - Descicion Tree
 - Linear Regression
